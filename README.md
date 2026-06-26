@@ -2,21 +2,21 @@
 
 Aplikasi desktop berbasis Java yang digunakan untuk mengelola data koperasi secara terkomputerisasi.
 
-## 📌 Fitur
-- 🔐 Login Admin
-- 👥 Kelola Data Anggota
-- 💰 Kelola Data Simpanan
-- 💳 Kelola Data Pinjaman
-- 📊 Laporan Koperasi
+   Fitur
+-  Login Admin
+-  Kelola Data Anggota
+-  Kelola Data Simpanan
+-  Kelola Data Pinjaman
+-  Laporan Koperasi
 
-## 🛠️ Teknologi
+ Teknologi
 - Java
 - NetBeans IDE
 - MySQL
 - JDBC
 - JCalendar
 
-## 📂 Struktur Project
+ Struktur Project
 ```
 src/
 nbproject/
@@ -24,18 +24,16 @@ build.xml
 manifest.mf
 ```
 
-## 🚀 Cara Menjalankan
+ Cara Menjalankan
 1. Clone repository.
 2. Buka project menggunakan NetBeans.
 3. Import database MySQL.
 4. Tambahkan MySQL Connector/J.
 5. Jalankan aplikasi.
 
-## 👨‍💻 Developer
+## Tugas Pemograman P 20 21 UAS 
 **Muhammad Salman Alfarisi**
+**231011401078**
 
-Universitas Pamulang  
-Teknik Informatika
+06TPLK001
 
-## 📄 Lisensi
-Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
